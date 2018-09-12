@@ -1,0 +1,9 @@
+agent: any
+stages:
+  - name: Init
+    steps:
+            - echo 'init...'
+  - name: Build
+    steps:
+            - echo 'build...' 
+

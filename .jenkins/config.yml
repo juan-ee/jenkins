@@ -1,8 +1,0 @@
-stages:
-        Init:
-                steps:
-                        - echo 'init...'
-        Build:
-                steps:
-                        - echo 'build...' 
-
